@@ -1,0 +1,7 @@
+[Unit]
+Description=LifeOS data pipeline
+WorkingDirectory=/path/ke/lifeos-data
+
+[Service]
+Type=oneshot
+ExecStart=/path/ke/lifeos-data/run.sh

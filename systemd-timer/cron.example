@@ -1,0 +1,2 @@
+# contoh cron: tiap Senin 06:00
+0 6 * * 1 cd /path/ke/lifeos-data && ./run.sh >> work/cron.log 2>&1

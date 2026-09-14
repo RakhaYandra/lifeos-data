@@ -1,0 +1,9 @@
+[Unit]
+Description=LifeOS data pipeline (mingguan)
+
+[Timer]
+OnCalendar=Mon *-*-* 06:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
