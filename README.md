@@ -1,5 +1,9 @@
 # lifeos-data
 
+[![ci](https://github.com/RakhaYandra/lifeos-data/actions/workflows/ci.yml/badge.svg)](https://github.com/RakhaYandra/lifeos-data/actions)
+
+> Ekosistem: [api](https://github.com/RakhaYandra/lifeos) · [web](https://github.com/RakhaYandra/lifeos-web) · [docs](https://github.com/RakhaYandra/lifeos-docs/releases) · [qa](https://github.com/RakhaYandra/lifeos-qa) · [data](https://github.com/RakhaYandra/lifeos-data) · [ops](https://github.com/RakhaYandra/lifeos-ops)
+
 Pipeline analitik untuk database [LifeOS](https://github.com/RakhaYandra/lifeos) —
 Python + pandas + DuckDB + matplotlib. Tanpa server, tanpa deploy:
 outputnya marts + grafik + insight di bawah.
